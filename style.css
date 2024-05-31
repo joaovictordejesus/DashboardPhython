@@ -1,0 +1,24 @@
+/*Escolher a cor da barra lateral azul claro*/
+
+[data-testid="stSidebar"] {
+    background-color:rgb(172, 172, 255);
+    color:white;  
+}
+
+/*Fundo dos Gráficos*/
+[data-testid="stAppViewContainer"] {
+    background-color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);  
+}
+
+/*Cabeçalho*/ 
+h1,.stMetric, .stNumberInput{
+    color:rgb(0, 0, 0);
+}
+
+/*Tamanho da Assinatura*/ 
+.joao-text{
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+}
