@@ -12,7 +12,7 @@ Come_algum_alimento_entre_refeições: É a categoria que define se a pessoa cos
 
 Demonstração:
 O Dashboard serve para comparar as categorias acima, sendo 4 por vez, uma em cada gráfico, sendo 2 Gráficos de Coluna, 1 de Rosca e 1 de Pizza(Setor).
-(Anexo Demonstrativo disponível na Pasta)
+(Anexos Demonstrativos disponíveis na Pasta)
 
 No projeto, foram utilizadas 3 bibliotecas,sendo elas:
 Streamlit que facilita a criação e o compartilhamento de aplicativos da web personalizados para análise de dados.
