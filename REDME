@@ -1,1 +1,14 @@
+Dashboard de Análise da Obesidade
+Tal projeto tem o objetivo de analisar o grau de obesidade entre um grupo de pessoas, grupo este comporto por 2111 pessoas, participantes de uma pesquisa.
+Este Dashboard analisa os dados dentro de 6 parâmetros, sendo elas: "Status","Habito_de_Fumar","Histórico_familiar_de_sobrepeso","Gênero",
+"Meio_de_Transporte","Come_algum_alimento_entre_refeições".
+Cada parâmetro tem diferentes possibilidades, sendo elas:
+Status: é a categoria de peso dos participantes, como Peso Normal,Peso Insuficiente,Sobrepeso Tipo 1 e 2 e Obesidade Tipo 1 e 2.
+Habito_de_Fumar: é a categoria que define se a pessoa tem o hábito de fumar ou não, logo as possibilidades são apenas sim ou não.
+Histórico_familiar_de_sobrepeso: é a categoria que define se a pessoa rem histórico de sobrepeso na família, tendo como possibilidades as alternativas sim ou não.
+Gênero: É a categoria que define o Gênero da Pessoa, tendo como possibilidade os gêneros masculino e feminino. 
+Meio_de_Transporte: É a categoria que define qual o meio de transporte os participantes mais usam, tendo como possibilidade as alternativas Transporte Público, Caminhada, Automóvel,Moto e Bicicleta. 
+Come_algum_alimento_entre_refeições: É a categoria que define se a pessoa costuma se alimentar no intervalo das refeições, tendo como Algumas,Frequentemente,Sempre e Não. 
 
+Demonstração:
+O Dashboard serve para comparar as categorias acima, sendo 4 por vez, uma em cada gráfico, sendo 2 Gráficos de Coluna, 1 de Rosca e 1 de Pizza(Setor).
