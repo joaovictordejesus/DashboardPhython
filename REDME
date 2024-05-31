@@ -18,3 +18,7 @@ No projeto, foram utilizadas 3 bibliotecas,sendo elas:
 Streamlit que facilita a criação e o compartilhamento de aplicativos da web personalizados para análise de dados.
 Plotly que permite a visualização de dados para Python e permite criar uma grande variedade de visualizações interativas, ou seja, foi usada para criar os gráficos.
 Pandas que permite a análise e manipulação de dados.
+
+Originalmente, estavam disponíveisos dados: Idade,Gênero,Altura,Peso,CALC,FAVC,FCVC,NCP,SCC,Habito_de_Fumar,CH2O,Histórico_familiar_de_sobrepeso,
+FAF,TUE,Come_algum_alimento_entre_refeições,Meio_de_Transporte e Status. Porém, para melhorar na análise, decidi optar por menos dados, aqueles que tivessem 
+menos variações para ter uma análise mais precisa.
